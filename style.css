@@ -14,7 +14,7 @@ nav {
 }
 
 nav a {
-    color: red;
+    color: yellow;
     margin: 0 10px;
     text-decoration: none;
 }
@@ -38,11 +38,12 @@ li {
 }
 
 a {
-    color: red;
+    color: yellow;
 }
 
 header{
     margin-bottom: 20px;
 
 }
+
 
